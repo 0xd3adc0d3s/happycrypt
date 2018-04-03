@@ -1,1 +1,3 @@
-# happycrypt
+# KickAss
+
+## Still in heavy development
